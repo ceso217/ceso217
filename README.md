@@ -38,7 +38,7 @@
   <li>🧉 I'm from Argentina.</li>
   <li>🌱 Constantly learning and experimenting with new technologies and tools.</li>
   <li>💡 I enjoy creating useful software for everyday life.</li>
-  <li>🎯 Currently working with technologies like <strong>C#</strong>, <strong>.NET</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, <strong>SQL Server</strong> and <strong>MongoDB</strong>.</li>
+  <li>🎯 Currently working with technologies like <strong>C#</strong>, <strong>.NET</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, <strong>SQL Server</strong> and <strong>PostgreSQL</strong>.</li>
   <li>🎮 I also explore <strong>game development</strong> using <strong>Unity</strong> and <strong>Godot</strong> in my free time.</li>
   <li>🧪 Currently taking a course in software testing to broaden my skillset.</li>
 </ul>
